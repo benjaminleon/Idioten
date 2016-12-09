@@ -1,6 +1,6 @@
 # Idioten
 
-This Matlab project simulates a number of games of the 1-player card game "idioten" and reports the statistics of winning.
+This Matlab project simulates a number of games of the 1-player card game "idioten" and reports the statistical probability of winning.
 
 A saved deck is found in "deck_used.mat" for experimenting and debugging. To get deterministic behaviour, use this deck instead of randomly generating a new one in the beginning of main.
 
